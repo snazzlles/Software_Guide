@@ -28,10 +28,10 @@ For even more open-source portable apps check out [https://portableapps.com/](ht
 
   
 ### 2. Charm
-**Open-Source?** _Yes_
-**OS Compatibility:** Windows, Linux, OS X
-**Description:** Time / activity tracker that allows you to create _tasks_ and log _events_ to these tasks. _Events_ are able to be edited post-completion and notes are able to be added to each of these _events_. Charm is able to create activity reports, weekly timesheets, and monthy timesheets whenever desired. Time logged is able to be displayed as either hours and minutes, or as decimal hours. The program reloads all your weeks tasks and events whenever opened, and all of its data can be exported whenever desired. Additionally, able to detect idle time and offer the option of removing said idle time from the log.
-**Location:** GitHub [https://github.com/KDAB/Charm](https://github.com/KDAB/Charm)
+**Open-Source?** _Yes_  
+**OS Compatibility:** Windows, Linux, OS X  
+**Description:** Time / activity tracker that allows you to create _tasks_ and log _events_ to these tasks. _Events_ are able to be edited post-completion and notes are able to be added to each of these _events_. Charm is able to create activity reports, weekly timesheets, and monthy timesheets whenever desired. Time logged is able to be displayed as either hours and minutes, or as decimal hours. The program reloads all your weeks tasks and events whenever opened, and all of its data can be exported whenever desired. Additionally, able to detect idle time and offer the option of removing said idle time from the log.  
+**Location:** GitHub [https://github.com/KDAB/Charm](https://github.com/KDAB/Charm)  
 
   
 ### 3. Colorveil
