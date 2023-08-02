@@ -29,7 +29,7 @@ For even more open-source portable apps check out [https://portableapps.com/](ht
 ### 2. Colorveil
 **Open-Source?** _No_  
 **OS Compatibility:** Windows 10, Windows 8, Windows 7, Windows Vista, Windows XP  
-**Description:** Colour filter overlay on top of your entire screen in a completely customisable colour of your choosing. Very useful for those who suffer from dylexia, scotopic sensitivity syndrome, or eye strain. Compatible with Windows native _Night Light_. **[Note: this program causes issues with Outlook desktop notifications causing them to not play sound alerts or show the pop-up]**  
+**Description:** Colour filter overlay on top of your entire screen in a completely customisable colour of your choosing. Very useful for those who suffer from dylexia, scotopic sensitivity syndrome, or eye strain. Compatible with Windows native _Night Light_. _**[Note: this program causes issues with Outlook desktop notifications causing them to not play sound alerts or show the pop-up]**_  
 **Location:** Company's website [https://www.east-tec.com/colorveil/](https://www.east-tec.com/colorveil/)  
 
   
@@ -52,7 +52,7 @@ For even more open-source portable apps check out [https://portableapps.com/](ht
 - Align and resize program window
 - Adjust process priorities
 
-Particularly useful to adjust the transparency of windows and allows you to overlay them accurately. **[Note: this program has not been updated in many years and as such is incompatible with certain programs - notably MS Office]**  
+Particularly useful to adjust the transparency of windows and allows you to overlay them accurately. _**[Note: this program has not been updated in many years and as such is incompatible with certain programs - notably MS Office]**_  
 **Location:** GitHub [https://github.com/igr/dm2](https://github.com/igr/dm2)  
 
   
@@ -108,5 +108,5 @@ Particularly useful to adjust the transparency of windows and allows you to over
 ### 12. T-Clock
 **Open-Source?** _Yes_  
 **OS Compatibility:** Windows  
-**Description:** Customise Windows clock and calendar to your needs! Notably allows you to display both the time and date (in your preferred format) at once on the taskbar when small icons are enabled. Is also able to send windows sound alerts for alarms and timers. **[Note: the version listed in the README is NOT the current version and does not function correctly. Navigate to All Releases and then download the most recent version]**  
+**Description:** Customise Windows clock and calendar to your needs! Notably allows you to display both the time and date (in your preferred format) at once on the taskbar when small icons are enabled. Is also able to send windows sound alerts for alarms and timers. _**[Note: the version listed in the README is NOT the current version and does not function correctly. Navigate to All Releases and then download the most recent version]**_  
 **Location:** GitHub [https://github.com/White-Tiger/T-Clock](https://github.com/White-Tiger/T-Clock)
