@@ -30,7 +30,9 @@ For even more apps compatible with no admin access, check out [https://portablea
 
 _Please feel free to recommend your own favourite pieces of software in the Discussion tab. Sharing is caring!_  
 
----
+
+## The Software
+
 ### 7+ Taskbar Tweaker
 | | |
 | --- | --- |
