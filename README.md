@@ -19,8 +19,8 @@ _**[DISCLAIMER: I have am not sponsored or otherwise affiliated with any softwar
 | 9. | [KeePass](#bitwarden--keepass) | Password Manager | Locally saved password manager | 
 | 10. | [TheGuide](#joplin--theguide) | Notes Manager | Tree-style note manager |
 | 11. | [OBS](#obs) | Video Editing | Recording software |
-| 12. | [OneCommander](#onecommander) | File Explorer | Alternative file explorer / manager |
-| 13. | [Q-Dir](#q-dir) | File Explorer | Alternative file explorer / manager |
+| 12. | [OneCommander](#onecommander--q-dir) | File Explorer | Alternative file explorer / manager |
+| 13. | [Q-Dir](#onecommander--q-dir) | File Explorer | Alternative file explorer / manager |
 | 14. | [ScreenRuler](#screenruler) | Utility | On-screen ruler |
 | 15. | [Shotcut](#shotcut) | Video Editing | Video editing software |
 | 16. | [SpeedCrunch](#speedcrunch) | Utility | Fast scientific calculator |
