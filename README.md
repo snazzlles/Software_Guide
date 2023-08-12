@@ -6,25 +6,25 @@ This is a list and documentation repository for free, _(mainly)_ open-source sof
 ### Table of Contents:  
 | Number | Software | Type | (Brief) Description |
 | --- | --- | --- | --- |
-| 1. | [7+ Taskbar Tweaker](#7-taskbar-tweaker) | Customisation | List all new or modified files |
-| 2. | [Charm](#charm) | Time Manager | Show file differences that haven't been staged |
-| 3. | [ColorVeil](#colorveil) | Accessibility | |
-| 4. | [ConvertAll](#convertall) | Utility | |
-| 5. | [DM2](#dm2) | Utility | |
-| 6. | [KeePass](#keepass) | Password Manager | |
-| 7. | [Bitwarden](#bitwarden) | Password Manager | |
-| 8. | [TheGuide](#theguide) | Notes Manager | |
-| 9. | [Joplin](#joplin) | Notes Manager | |
-| 10. | [OBS](#obs) | Video Editing | |
-| 11. | [OneCommander](#onecommander) | File Explorer | |
-| 12. | [Q-Dir](#q-dir) | File Explorer | |
-| 13. | [ScreenRuler](#screenruler) | Utility | |
-| 14. | [Shotcut](#shotcut) | Video Editing | |
-| 15. | [SpeedCrunch](#speedcrunch) | Utility | |
-| 16. | [SumatraPDF](#sumatrapdf) | PDF Viewer | |
-| 17. | [T-Clock](#t-clock) | Customisation | |
-| 18. | [Week-To-Do](#week-to-do) | Task Manager | |
-| 19. | [Zotero](#zotero) | Reference Manager | |
+| 1. | [7+ Taskbar Tweaker](#7-taskbar-tweaker) | Customisation | Windows taskbar customisation |
+| 2. | [Charm](#charm) | Time Manager | Project time tracker |
+| 3. | [ColorVeil](#colorveil) | Accessibility | Customisable colour overlay |
+| 4. | [ConvertAll](#convertall) | Utility | Fast unit converter |
+| 5. | [DM2](#dm2) | Utility | Adds additional functionality to program windows |
+| 6. | [KeePass](#keepass) | Password Manager | Locally saved password manager |
+| 7. | [Bitwarden](#bitwarden) | Password Manager | Comprehensive cloud-based password manager |
+| 8. | [TheGuide](#theguide) | Notes Manager | Tree-style note manager |
+| 9. | [Joplin](#joplin) | Notes Manager | Tree-style note & task manager |
+| 10. | [OBS](#obs) | Video Editing | Recording software |
+| 11. | [OneCommander](#onecommander) | File Explorer | Alternative file explorer / manager |
+| 12. | [Q-Dir](#q-dir) | File Explorer | Alternative file explorer / manager |
+| 13. | [ScreenRuler](#screenruler) | Utility | On-screen ruler |
+| 14. | [Shotcut](#shotcut) | Video Editing | Video editing software |
+| 15. | [SpeedCrunch](#speedcrunch) | Utility | Fast scientific calculator |
+| 16. | [SumatraPDF](#sumatrapdf) | PDF Viewer | - |
+| 17. | [T-Clock](#t-clock) | Customisation | Taskbar clock & calendar customisation |
+| 18. | [Week-To-Do](#week-to-do) | Task Manager | - |
+| 19. | [Zotero](#zotero) | Reference Manager | - |
 
 For even more apps compatible with no admin access, check out [https://portableapps.com/](https://portableapps.com/) which has over 450 apps that require no installation and are completely compatible with administrator-locked-laptops! Most of these are open-source and some even made it onto this guide!  
 
