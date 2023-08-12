@@ -45,6 +45,26 @@ _Please feel free to recommend your own favourite pieces of software in the Disc
 | **Applicability to Engineers** | No specific applications beyond customisation. |
 | **Source** | GitHub: https://github.com/m417z/7-Taskbar-Tweaker |
 
+---  
+### Bitwarden / KeePass
+Bitwarden and KeePass are both useful password managers however there is one key difference: KeePass stores all your passwords locally whereas Bitwarden stores your passwords in the cloud.
+#### Bitwarden
+| | |
+| --- | --- |
+| **Open-Source?**  | _Yes_ |
+| **OS Compatibility** | Windows; macOS; Linux; Android; iOS |
+| **Description** | Comprehensive password and secure note manager with syncing across devices. All information is encrypted. Features integrated password generator and fully-fledged, well functioning browser extensions available for a wide variety of browsers, allowing auto-filled username and passwords. |
+| **Applicability to Engineers** | No specific applicability. |
+| **Source** | Dedicated Website: https://bitwarden.com/products/personal/ |
+#### KeePass
+| | |
+| --- | --- |
+| **Open-Source?**  | _Yes_ |
+| **OS Compatibility** | Windows 11; Windows 10; Windows 8; Windows 7; unofficial ports to Android, iOS, macOS, and others. |
+| **Description** | Lightweight password manager with integrated encryption. All files stored locally on your own machine. Features integrated password generator and a number of optional plugins. |
+| **Applicability to Engineers** | No specific applicability. |
+| **Source** | Dedicated Website: https://keepass.info/index.html |
+
 ---
 ### Charm
 | | |
@@ -95,37 +115,9 @@ _Please feel free to recommend your own favourite pieces of software in the Disc
 | **Applicability to Engineers** | No specific applicability beyond image manipulation. |
 | **Source** | Dedicated Website: https://www.gimp.org/ |
 
----  
-### KeePass / Bitwarden
-KeePass and Bitwarden are both useful password managers however there is one key difference: KeePass stores all your passwords locally whereas Bitwarden stores your passwords in the cloud.
-#### KeePass
-| | |
-| --- | --- |
-| **Open-Source?**  | _Yes_ |
-| **OS Compatibility** | Windows 11; Windows 10; Windows 8; Windows 7; unofficial ports to Android, iOS, macOS, and others. |
-| **Description** | Lightweight password manager with integrated encryption. All files stored locally on your own machine. Features integrated password generator and a number of optional plugins. |
-| **Applicability to Engineers** | No specific applicability. |
-| **Source** | Dedicated Website: https://keepass.info/index.html |
-#### Bitwarden
-| | |
-| --- | --- |
-| **Open-Source?**  | _Yes_ |
-| **OS Compatibility** | Windows; macOS; Linux; Android; iOS |
-| **Description** | Comprehensive password and secure note manager with syncing across devices. All information is encrypted. Features integrated password generator and fully-fledged, well functioning browser extensions available for a wide variety of browsers, allowing auto-filled username and passwords. |
-| **Applicability to Engineers** | No specific applicability. |
-| **Source** | Dedicated Website: https://bitwarden.com/products/personal/ |
-
 ---
-### TheGuide / Joplin
-TheGuide and Joplin are both note managers using a tree-style management system.
-#### TheGuide
-| | |
-| --- | --- |
-| **Open-Source?**  | _Yes_ |
-| **OS Compatibility** | Windows |
-| **Description** | A fast and simplistic tree-based information management tool. It allows you to organise information in pages, sub-pages, sub-sub-pages, etc. to organise all your notes. Particularly useful to use instead of Notepad to keep all your notes and bits of information in one filing structure. |
-| **Applicability to Engineers** | Fast and simplistic - particularly useful for noting information and/or personal tasks during meetings. |
-| **Source** | SourceForge: https://sourceforge.net/projects/theguide/ |
+### Joplin / TheGuide
+Joplin and TheGuide are both note managers using a tree-style management system but vary in their complexity.
 #### Joplin
 | | |
 | --- | --- |
@@ -134,6 +126,14 @@ TheGuide and Joplin are both note managers using a tree-style management system.
 | **Description** | A comprehensive note and task management tool. Features search function, tags, due-dates, reminders, web-clipper plugin, and Markdown format. Similar in function to Evernote. |
 | **Applicability to Engineers** | Useful for creating dedicated notebooks with tasks and notes for specific projects. |
 | **Source** | Dedicated Website: https://joplinapp.org/ |
+#### TheGuide
+| | |
+| --- | --- |
+| **Open-Source?**  | _Yes_ |
+| **OS Compatibility** | Windows |
+| **Description** | A fast and simplistic tree-based information management tool. It allows you to organise information in pages, sub-pages, sub-sub-pages, etc. to organise all your notes. Particularly useful to use instead of Notepad to keep all your notes and bits of information in one filing structure. |
+| **Applicability to Engineers** | Fast and simplistic - particularly useful for noting information and/or personal tasks during meetings. |
+| **Source** | SourceForge: https://sourceforge.net/projects/theguide/ |
 
 ---  
 ### OBS
