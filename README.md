@@ -4,7 +4,7 @@
 This is a list and documentation repository for free, _(mainly)_ open-source software compatible with corporate computers that I've found personally useful as a civil engineer. In order to be as corporate-computer-friendly as possible, almost all of these programs are available as portable (.zip) versions that do not require installation and shouldn't be blocked by admin rights.
 
 ### Table of Contents:  
-| Number | Software | Type | (Brief) Description |
+| No. | Software | Type | (Brief) Description |
 | --- | --- | --- | --- |
 | 1. | [7+ Taskbar Tweaker](#7-taskbar-tweaker) | Customisation | Windows taskbar customisation |
 | 2. | [Charm](#charm) | Time Manager | Project time tracker |
