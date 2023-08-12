@@ -3,7 +3,7 @@
 
 This is a list and documentation repository for free, _(mainly)_ open-source software compatible with corporate computers that I've found personally useful as a civil engineer. In order to be as corporate-computer-friendly as possible, almost all of these programs are available as portable (.zip) versions that do not require installation and shouldn't be blocked by admin rights. Also check out the [Snazzlles Big Bumper Guide to Browser Plugins](README-Plugins.md)!
 
-_**[DISCLAIMER: I have am not sponsored or otherwise affiliated with any software listed within this guide. Although I have checked many of these softwares for malware, and personally use almost all of them, it is always pertinent to personally check any software you plan to use with an anti-virus such as https://www.virustotal.com/ as many software listed here are still under active development and newer updates could always be created in bad faith.]**_
+_**[DISCLAIMER: I have am not sponsored or otherwise affiliated with any software listed within this guide. Although I have checked many of these softwares for malware, and personally use almost all of them, it is always pertinent for users to personally check any software they plan to use with an anti-virus such as https://www.virustotal.com/ and that users understand they are downloading and/or installing software at their own risk.]**_
 
 ### Table of Contents:  
 | No. | Software | Type | (Brief) Description |
