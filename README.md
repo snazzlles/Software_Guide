@@ -13,7 +13,7 @@ _**[DISCLAIMER: I have am not sponsored or otherwise affiliated with any softwar
 | 3. | [ColorVeil](#colorveil) | Accessibility | Customisable colour overlay |
 | 4. | [ConvertAll](#convertall) | Utility | Fast unit converter |
 | 5. | [DM2](#dm2) | Utility | Adds additional functionality to program windows |
-| 6. | [GIMP](#gimp) | Image Editing | Alternative to photoshop |
+| 6. | [GIMP](#gimp) | Image Manipulation | Alternative to photoshop |
 | 7. | [KeePass](#keepass) | Password Manager | Locally saved password manager |
 | 8. | [Bitwarden](#bitwarden) | Password Manager | Comprehensive cloud-based password manager |
 | 9. | [TheGuide](#theguide) | Notes Manager | Tree-style note manager |
