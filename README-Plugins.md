@@ -9,12 +9,13 @@ _**[DISCLAIMER: I have am not sponsored or otherwise affiliated with any plugins
 | No. | Plugin | Use | (Brief) Description |
 | --- | --- | --- | --- |
 | 1. | [Auto-tab Discard](#auto-tab-discard) | Browser speed | Automatically unloads tabs |
-| 2. | [Consent-O-Matic](#consent-o-matic) | Cookies | Automatically reject cookies |
-| 3. | [Google Unlocked](#google-unlocked) | Improved search | Un-hide search results from google |
-| 4. | [Tree Style Tab](#tree-style-tab) | Tab Organisation | View and organise your tabs in a tree-style system |
-| 5. | [U-Block Origin](#u-block-origin) | Ad-blocker | Block ads |
-| 6. | [Window Titler](#window-titler) | Window Organisation | Title your windows |
-| 7. | [Zotero](#zotero) | Reference management | Used in conjunction with Zotero reference manager |
+| 2. | [Bionic Reader](#bionic-reader) | Accessibility | Applies bionic reading style |
+| 3. | [Consent-O-Matic](#consent-o-matic) | Cookies | Automatically reject cookies |
+| 4. | [Google Unlocked](#google-unlocked) | Improved search | Un-hide search results from google |
+| 5. | [Tree Style Tab](#tree-style-tab) | Tab Organisation | View and organise your tabs in a tree-style system |
+| 6. | [U-Block Origin](#u-block-origin) | Ad-blocker | Block ads |
+| 7. | [Window Titler](#window-titler) | Window Organisation | Title your windows |
+| 8. | [Zotero](#zotero) | Reference management | Used in conjunction with Zotero reference manager |
 
 _Please feel free to recommend your own favourite plugins in the Discussion tab. Sharing is caring!_  
 
@@ -29,6 +30,15 @@ _Please feel free to recommend your own favourite plugins in the Discussion tab.
 | **Reasons to Use** | Reduce memory usage without losing important tabs. |
 | **Mozilla Location** | https://addons.mozilla.org/en-GB/firefox/addon/auto-tab-discard/ |
 | **Plugin Home** | https://webextension.org/listing/tab-discard.html |
+
+---
+### Bionic Reader
+| | |
+| -- | -- |
+| **Mozilla Monitored?** | _No_ |
+| **Description** | Applies [bionic reading style](https://bookriot.com/what-is-bionic-reading/) to text. Customisable in terms of emphasis. |
+| **Reasons to Use** | Can make reading text easier and faster. |
+| **Mozilla Location** | https://addons.mozilla.org/en-GB/firefox/addon/bionic-reader/ |
 
 ---
 ### Consent-O-Matic
