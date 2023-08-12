@@ -6,7 +6,7 @@ This is a sister guide to the [Snazzlles Big Bumper Guide to Useful Software](RE
 _**[DISCLAIMER: I have am not sponsored or otherwise affiliated with any plugins listed within this guide. It is always pertinent that users understand they install plugins at their own risk.]**_
 
 ### Table of Contents:  
-| No. | Plugin | Type | (Brief) Description |
+| No. | Plugin | Use | (Brief) Description |
 | --- | --- | --- | --- |
 | 1. | [Auto-tab Discard](#auto-tab-discard) | Browser speed | Automatically unloads tabs |
 | 2. | [Consent-O-Matic](#consent-o-matic) | Cookies | Automatically reject cookies |
