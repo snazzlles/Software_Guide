@@ -9,15 +9,15 @@ _**[DISCLAIMER: I have am not sponsored or otherwise affiliated with any softwar
 | No. | Software | Type | (Brief) Description |
 | --- | --- | --- | --- |
 | 1. | [7+ Taskbar Tweaker](#7-taskbar-tweaker) | Customisation | Windows taskbar customisation |
-| 2. | [Charm](#charm) | Time Manager | Project time tracker |
-| 3. | [ColorVeil](#colorveil) | Accessibility | Customisable colour overlay |
-| 4. | [ConvertAll](#convertall) | Utility | Fast unit converter |
-| 5. | [DM2](#dm2) | Utility | Adds additional functionality to program windows |
-| 6. | [GIMP](#gimp) | Image Manipulation | Alternative to photoshop |
-| 7. | [KeePass](#keepass) | Password Manager | Locally saved password manager |
-| 8. | [Bitwarden](#bitwarden) | Password Manager | Comprehensive cloud-based password manager |
-| 9. | [TheGuide](#theguide) | Notes Manager | Tree-style note manager |
-| 10. | [Joplin](#joplin) | Notes Manager | Tree-style note & task manager |
+| 2. | [Bitwarden](#bitwarden) | Password Manager | Comprehensive cloud-based password manager |
+| 3. | [Charm](#charm) | Time Manager | Project time tracker |
+| 4. | [ColorVeil](#colorveil) | Accessibility | Customisable colour overlay |
+| 5. | [ConvertAll](#convertall) | Utility | Fast unit converter |
+| 6. | [DM2](#dm2) | Utility | Adds additional functionality to program windows |
+| 7. | [GIMP](#gimp) | Image Manipulation | Alternative to photoshop |
+| 8. | [Joplin](#joplin) | Notes Manager | Tree-style note & task manager |
+| 9. | [KeePass](#keepass) | Password Manager | Locally saved password manager | 
+| 10. | [TheGuide](#theguide) | Notes Manager | Tree-style note manager |
 | 11. | [OBS](#obs) | Video Editing | Recording software |
 | 12. | [OneCommander](#onecommander) | File Explorer | Alternative file explorer / manager |
 | 13. | [Q-Dir](#q-dir) | File Explorer | Alternative file explorer / manager |
