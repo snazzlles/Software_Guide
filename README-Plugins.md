@@ -3,7 +3,7 @@
 
 This is a sister guide to the [Snazzlles Big Bumper Guide to Useful Software](README.md), aiming to provide a similarly compiled list of plugins I find personally useful as a civil engineer, on both work and personal computers. It should be noted that all plugins listed within this guide are available for Mozilla Firefox and may or may not be available for other browsers.
 
-_**[DISCLAIMER: I have am not sponsored or otherwise affiliated with any plugins listed within this guide. It is always pertinent that users install plugins at their own risk.]**_
+_**[DISCLAIMER: I have am not sponsored or otherwise affiliated with any plugins listed within this guide. It is always pertinent that users understand they install plugins at their own risk.]**_
 
 ### Table of Contents:  
 | No. | Plugin | Type | (Brief) Description |
