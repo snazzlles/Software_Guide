@@ -13,7 +13,7 @@ _**[DISCLAIMER: I have am not sponsored or otherwise affiliated with any plugins
 | 3. | [Consent-O-Matic](#consent-o-matic) | Cookies | Automatically reject cookies |
 | 4. | [Google Unlocked](#google-unlocked) | Improved search | Un-hide search results from google |
 | 5. | [Tree Style Tab](#tree-style-tab) | Tab Organisation | View and organise your tabs in a tree-style system |
-| 6. | [U-Block Origin](#u-block-origin) | Ad-blocker | Block ads |
+| 6. | [uBlock Origin](#ublock-origin) | Ad-blocker | Block ads |
 | 7. | [Window Titler](#window-titler) | Window Organisation | Title your windows |
 | 8. | [Zotero](#zotero) | Reference management | Used in conjunction with Zotero reference manager |
 
@@ -70,7 +70,7 @@ _Please feel free to recommend your own favourite plugins in the Discussion tab.
 | **Plugin Home** | https://piro.sakura.ne.jp/xul/_treestyletab.html.en |
 
 ---
-### U-Block Origin
+### uBlock Origin
 | | |
 | -- | -- |
 | **Mozilla Monitored?** | _Yes_ |
