@@ -13,20 +13,21 @@ _**[DISCLAIMER: I have am not sponsored or otherwise affiliated with any softwar
 | 3. | [ColorVeil](#colorveil) | Accessibility | Customisable colour overlay |
 | 4. | [ConvertAll](#convertall) | Utility | Fast unit converter |
 | 5. | [DM2](#dm2) | Utility | Adds additional functionality to program windows |
-| 6. | [KeePass](#keepass) | Password Manager | Locally saved password manager |
-| 7. | [Bitwarden](#bitwarden) | Password Manager | Comprehensive cloud-based password manager |
-| 8. | [TheGuide](#theguide) | Notes Manager | Tree-style note manager |
-| 9. | [Joplin](#joplin) | Notes Manager | Tree-style note & task manager |
-| 10. | [OBS](#obs) | Video Editing | Recording software |
-| 11. | [OneCommander](#onecommander) | File Explorer | Alternative file explorer / manager |
-| 12. | [Q-Dir](#q-dir) | File Explorer | Alternative file explorer / manager |
-| 13. | [ScreenRuler](#screenruler) | Utility | On-screen ruler |
-| 14. | [Shotcut](#shotcut) | Video Editing | Video editing software |
-| 15. | [SpeedCrunch](#speedcrunch) | Utility | Fast scientific calculator |
-| 16. | [SumatraPDF](#sumatrapdf) | PDF Viewer | - |
-| 17. | [T-Clock](#t-clock) | Customisation | Taskbar clock & calendar customisation |
-| 18. | [Week-To-Do](#week-to-do) | Task Manager | - |
-| 19. | [Zotero](#zotero) | Reference Manager | - |
+| 6. | [GIMP](#gimp) | Image Editing | Alternative to photoshop |
+| 7. | [KeePass](#keepass) | Password Manager | Locally saved password manager |
+| 8. | [Bitwarden](#bitwarden) | Password Manager | Comprehensive cloud-based password manager |
+| 9. | [TheGuide](#theguide) | Notes Manager | Tree-style note manager |
+| 10. | [Joplin](#joplin) | Notes Manager | Tree-style note & task manager |
+| 11. | [OBS](#obs) | Video Editing | Recording software |
+| 12. | [OneCommander](#onecommander) | File Explorer | Alternative file explorer / manager |
+| 13. | [Q-Dir](#q-dir) | File Explorer | Alternative file explorer / manager |
+| 14. | [ScreenRuler](#screenruler) | Utility | On-screen ruler |
+| 15. | [Shotcut](#shotcut) | Video Editing | Video editing software |
+| 16. | [SpeedCrunch](#speedcrunch) | Utility | Fast scientific calculator |
+| 17. | [SumatraPDF](#sumatrapdf) | PDF Viewer | - |
+| 18. | [T-Clock](#t-clock) | Customisation | Taskbar clock & calendar customisation |
+| 19. | [Week-To-Do](#week-to-do) | Task Manager | - |
+| 20. | [Zotero](#zotero) | Reference Manager | - |
 
 For even more apps compatible with no admin access, check out [https://portableapps.com/](https://portableapps.com/) which has over 450 apps that require no installation and are completely compatible with administrator-locked-laptops! Most of these are open-source and some even made it onto this guide!  
 
@@ -83,6 +84,16 @@ _Please feel free to recommend your own favourite pieces of software in the Disc
 | **Description** | Adds utility to program windows such as: adjusting the transpareny, pinning a program window to remain on-top, minimising a program window to a floating icon, minimising a program window to the tray (not taskbar), adjust process priorities, and more. _**[Note: this program has not been updated in many years and as such is incompatible with certain programs - notably MS Office]**_ |
 | **Applicability to Engineers** | Particularly useful to adjust the transparency of windows and allows you to overlay, eg. maps, accurately. |
 | **Source** | GitHub: https://github.com/igr/dm2 |
+
+---
+### GIMP
+| | |
+| --- | --- |
+| **Open-Source?** | _Yes_ |
+| **OS Compatibility** | Windows; macOS; Linux / GNU |
+| **Description** | Fully comprehensive image and general graphic editor. Able to import pdfs, jpgs, pngs, etc. as layers and edit / manipulate in a wide variety of ways. Projects can be saved as .xcf or can be exported to a variety of formats including jpg and png. Alternative to Photoshop. |
+| **Applicability to Engineers** | No specific applicability beyond image manipulation. |
+| **Source** | Dedicated Website: https://www.gimp.org/ |
 
 ---  
 ### KeePass / Bitwarden
