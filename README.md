@@ -14,20 +14,22 @@ _**[DISCLAIMER: I have am not sponsored or otherwise affiliated with any softwar
 | 4. | [ColorVeil](#colorveil) | Accessibility | Customisable colour overlay |
 | 5. | [ConvertAll](#convertall) | Utility | Fast unit converter |
 | 6. | [DM2](#dm2) | Utility | Adds additional functionality to program windows |
-| 7. | [GIMP](#gimp) | Image Manipulation | Alternative to photoshop |
-| 8. | [Joplin](#joplin--theguide) | Notes Manager | Tree-style note & task manager |
-| 9. | [KeePass](#bitwarden--keepass) | Password Manager | Locally saved password manager | 
-| 10. | [TheGuide](#joplin--theguide) | Notes Manager | Tree-style note manager |
-| 11. | [OBS](#obs) | Video Editing | Recording software |
-| 12. | [OneCommander](#onecommander--q-dir) | File Explorer | Alternative file explorer / manager |
-| 13. | [Q-Dir](#onecommander--q-dir) | File Explorer | Alternative file explorer / manager |
-| 14. | [ScreenRuler](#screenruler) | Utility | On-screen ruler |
-| 15. | [Shotcut](#shotcut) | Video Editing | Video editing software |
-| 16. | [SpeedCrunch](#speedcrunch) | Utility | Fast scientific calculator |
-| 17. | [SumatraPDF](#sumatrapdf) | PDF Viewer | - |
-| 18. | [T-Clock](#t-clock) | Customisation | Taskbar clock & calendar customisation |
-| 19. | [Week-To-Do](#week-to-do) | Task Manager | - |
-| 20. | [Zotero](#zotero) | Reference Manager | - |
+| 7. | [Everything](#everything) | Utility | Fast and comprehensive searching of all files |
+| 8. | [GIMP](#gimp) | Image Manipulation | Alternative to photoshop |
+| 9. | [Joplin](#joplin--theguide--obsidian) | Notes Manager | Tree-style mark-down note & task manager |
+| 10. | [KeePass](#bitwarden--keepass) | Password Manager | Locally saved password manager | 
+| 11. | [Obsidian](#joplin--theguide--obsidian) | Notes Manager | Tree-style mark-down note & task manager |
+| 12. | [TheGuide](#joplin--theguide--obsidian) | Notes Manager | Tree-style note manager |
+| 13. | [OBS](#obs) | Video Editing | Recording software |
+| 14. | [OneCommander](#onecommander--q-dir) | File Explorer | Alternative file explorer / manager |
+| 15. | [Q-Dir](#onecommander--q-dir) | File Explorer | Alternative file explorer / manager |
+| 16. | [ScreenRuler](#screenruler) | Utility | On-screen ruler |
+| 17. | [Shotcut](#shotcut) | Video Editing | Video editing software |
+| 18. | [SpeedCrunch](#speedcrunch) | Utility | Fast scientific calculator |
+| 19. | [SumatraPDF](#sumatrapdf) | PDF Viewer | - |
+| 20. | [T-Clock](#t-clock) | Customisation | Taskbar clock & calendar customisation |
+| 21. | [Week-To-Do](#week-to-do) | Task Manager | - |
+| 22. | [Zotero](#zotero) | Reference Manager | - |
 
 For even more apps compatible with no admin access, check out [https://portableapps.com/](https://portableapps.com/) which has over 450 apps that require no installation and are completely compatible with administrator-locked-laptops! Most of these are open-source and some even made it onto this guide!  
 
@@ -105,6 +107,16 @@ Bitwarden and KeePass are both useful password managers however there is one key
 | **Applicability to Engineers** | Particularly useful to adjust the transparency of windows and allows you to overlay, eg. maps, accurately. |
 | **Source** | GitHub: https://github.com/igr/dm2 |
 
+---  
+### Everything
+| | |
+| --- | --- |
+| **Open-Source?**  | _No_ |
+| **OS Compatibility** | Windows |
+| **Description** | Vastly improves upon Windows' native file searcher. Quickly finds files matching your search criteria. |
+| **Applicability to Engineers** | Finding that one necessary file buried in countless random folders. |
+| **Source** | Dedicated Website: https://www.voidtools.com/ |
+
 ---
 ### GIMP
 | | |
@@ -116,14 +128,14 @@ Bitwarden and KeePass are both useful password managers however there is one key
 | **Source** | Dedicated Website: https://www.gimp.org/ |
 
 ---
-### Joplin / TheGuide
-Joplin and TheGuide are both note managers using a tree-style management system but vary in their complexity.
+### Joplin / TheGuide / Obsidian
+All three of these are notes managers. However, Joplin and Obsidian both utilise mark-down whereas TheGuide is more basic.
 #### Joplin
 | | |
 | --- | --- |
 | **Open-Source?**  | _Yes_ |
 | **OS Compatibility** | Windows; macOS; Linux; FreeBSD; Android; iOS |
-| **Description** | A comprehensive note and task management tool. Features search function, tags, due-dates, reminders, web-clipper plugin, and Markdown format. Similar in function to Evernote. |
+| **Description** | A comprehensive note and task management tool. Features search function, tags, due-dates, reminders, web-clipper plugin, and Markdown format. Similar in function to Evernote. _**[Note: I have personally found that 'tick-boxes' and bullet points will get auto-converted to one another if placed adjacent in the same note]**_ |
 | **Applicability to Engineers** | Useful for creating dedicated notebooks with tasks and notes for specific projects. |
 | **Source** | Dedicated Website: https://joplinapp.org/ |
 #### TheGuide
@@ -134,6 +146,14 @@ Joplin and TheGuide are both note managers using a tree-style management system 
 | **Description** | A fast and simplistic tree-based information management tool. It allows you to organise information in pages, sub-pages, sub-sub-pages, etc. to organise all your notes. Particularly useful to use instead of Notepad to keep all your notes and bits of information in one filing structure. |
 | **Applicability to Engineers** | Fast and simplistic - particularly useful for noting information and/or personal tasks during meetings. |
 | **Source** | SourceForge: https://sourceforge.net/projects/theguide/ |
+#### Obsidian
+| | |
+| --- | --- |
+| **Open-Source?**  | _No_ |
+| **OS Compatibility** | Windows; macOS; Linux; Android; iOS |
+| **Description** | A feature-rich note management tool. Utilises mark-down when taking notes and can therefore have 'tick-boxes' within a note to represent tasks. Extensive library of community plugins to alter everything from appearance to functionality. Unlike Joplin, 'tick-boxes' and bullet points do not get mixed up when saving. |
+| **Applicability to Engineers** | Useful for creating dedicated notebooks notes and sub-tasks for specific projects. |
+| **Source** | Dedicated Website: https://obsidian.md/ |
 
 ---  
 ### OBS
